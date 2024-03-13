@@ -1,0 +1,40 @@
+#container{
+    background-color: antiquewhite;
+    max-width: 300px;
+    text-align: center;
+    margin: auto;
+    border: 1px solid black;
+}
+.first{
+    height: 350px;
+}
+.topic{
+    font-size: 20px;
+    color: white;
+    background-color: grey;
+}
+h2{
+    text-align: center;
+    margin:auto;
+}
+#container2{
+    margin-top: 10px;
+    background-color: white;
+}
+.one{
+    height: 50px;
+    width:50px;
+}
+.two{
+    height: 50px;
+    width:50px;
+}
+.three{
+    height:50px;
+    width: 50px;
+}
+.grade{
+    background-color: brown;
+    color: white;
+    font-size: 16px;
+}
